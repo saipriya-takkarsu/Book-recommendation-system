@@ -1,0 +1,232 @@
+Book Title,Course,Branch,Rating,Published Date,Description
+Operating System Concepts,Operating Systems,Computer Science and Engineering (CSE),4.05,2019-12-13,"This book covers fundamental concepts of modern operating systems, process management, and more."
+Modern Operating Systems,Operating Systems,Computer Science and Engineering (CSE),3.84,2022-01-11,"This book covers fundamental concepts of modern operating systems, process management, and more."
+Operating Systems: Internals and Design Principles,Operating Systems,Computer Science and Engineering (CSE),4.29,2020-07-25,"This book covers fundamental concepts of modern operating systems, process management, and more."
+Database System Concepts,Databases,Computer Science and Engineering (CSE),4.2,2017-06-10,"A comprehensive guide to databases, covering relational models, SQL, and database system architectures."
+Introduction to Databases,Databases,Computer Science and Engineering (CSE),3.88,2020-02-21,"A comprehensive guide to databases, covering relational models, SQL, and database system architectures."
+Fundamentals of Database Systems,Databases,Computer Science and Engineering (CSE),3.91,2019-08-04,"A comprehensive guide to databases, covering relational models, SQL, and database system architectures."
+The C Programming Language,Programming Languages,Computer Science and Engineering (CSE),3.76,2014-07-30,"An in-depth resource on programming languages, covering syntax, semantics, and practical applications."
+Learning Python,Programming Languages,Computer Science and Engineering (CSE),4.22,2014-08-24,"An in-depth resource on programming languages, covering syntax, semantics, and practical applications."
+Java: The Complete Reference,Programming Languages,Computer Science and Engineering (CSE),3.56,2021-02-25,"An in-depth resource on programming languages, covering syntax, semantics, and practical applications."
+Effective Java,Programming Languages,Computer Science and Engineering (CSE),4.25,2022-05-20,"An in-depth resource on programming languages, covering syntax, semantics, and practical applications."
+Data Structures and Algorithms in Java,Data Structures,Computer Science and Engineering (CSE),4.22,2022-09-18,"Detailed guide on data structures and algorithms, essential for efficient problem-solving."
+Data Structures Using C,Data Structures,Computer Science and Engineering (CSE),3.87,2021-11-04,"Detailed guide on data structures and algorithms, essential for efficient problem-solving."
+Data Structures and Algorithm Analysis,Data Structures,Computer Science and Engineering (CSE),4.8,2020-05-01,"Detailed guide on data structures and algorithms, essential for efficient problem-solving."
+Computer Networking: A Top-Down Approach,Computer Networks,Computer Science and Engineering (CSE),3.97,2014-10-21,"Explores networking principles, protocols, and communication models for modern systems."
+Data and Computer Communications,Computer Networks,Computer Science and Engineering (CSE),4.53,2015-08-19,"Explores networking principles, protocols, and communication models for modern systems."
+Network Security Essentials,Computer Networks,Computer Science and Engineering (CSE),4.33,2022-07-14,"Explores networking principles, protocols, and communication models for modern systems."
+Software Engineering: A Practitioner's Approach,Software Engineering,Computer Science and Engineering (CSE),4.61,2019-12-14,"Covers software development processes, including design patterns and agile methodologies."
+Clean Code,Software Engineering,Computer Science and Engineering (CSE),4.42,2018-07-27,"Covers software development processes, including design patterns and agile methodologies."
+Design Patterns: Elements of Reusable Object-Oriented Software,Software Engineering,Computer Science and Engineering (CSE),4.72,2018-03-19,"Covers software development processes, including design patterns and agile methodologies."
+Pattern Recognition and Machine Learning,Machine Learning,Computer Science and Engineering (CSE),3.94,2020-04-02,"A comprehensive introduction to machine learning, covering theoretical foundations and practical implementations."
+"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",Machine Learning,Computer Science and Engineering (CSE),3.88,2019-06-15,"A comprehensive introduction to machine learning, covering theoretical foundations and practical implementations."
+Deep Learning,Machine Learning,Computer Science and Engineering (CSE),3.51,2017-02-08,"A comprehensive introduction to machine learning, covering theoretical foundations and practical implementations."
+Artificial Intelligence: A Modern Approach,Artificial Intelligence,Computer Science and Engineering (CSE),4.32,2017-05-31,"Discusses core AI concepts, from search algorithms to knowledge representation and robotics."
+Introduction to Artificial Intelligence,Artificial Intelligence,Computer Science and Engineering (CSE),4.76,2017-12-05,"Discusses core AI concepts, from search algorithms to knowledge representation and robotics."
+AI: A Comprehensive Guide,Artificial Intelligence,Computer Science and Engineering (CSE),3.74,2022-05-03,"Discusses core AI concepts, from search algorithms to knowledge representation and robotics."
+Hacking: The Art of Exploitation,Cybersecurity,Computer Science and Engineering (CSE),5.0,2022-12-24,"Focuses on network security, encryption, and defensive programming techniques."
+Applied Cryptography,Cybersecurity,Computer Science and Engineering (CSE),4.1,2016-12-06,"Focuses on network security, encryption, and defensive programming techniques."
+"Cloud Computing: Concepts, Technology & Architecture",Cloud Computing,Computer Science and Engineering (CSE),3.54,2014-03-31,"Comprehensive guide to the cloud infrastructure, virtualization, and cloud services."
+Architecting the Cloud,Cloud Computing,Computer Science and Engineering (CSE),4.34,2014-10-12,"Comprehensive guide to the cloud infrastructure, virtualization, and cloud services."
+Mastering Cloud Computing,Cloud Computing,Computer Science and Engineering (CSE),4.12,2016-12-17,"Comprehensive guide to the cloud infrastructure, virtualization, and cloud services."
+Cybersecurity and Cyberwar,Cybersecurity,Computer Science and Engineering (CSE),4.5,2021-10-16,"Covers cybersecurity fundamentals, strategies, and architectures for protecting information."
+The Cybersecurity Playbook,Cybersecurity,Computer Science and Engineering (CSE),4.91,2017-08-15,"Covers cybersecurity fundamentals, strategies, and architectures for protecting information."
+Practical Cybersecurity Architecture,Cybersecurity,Computer Science and Engineering (CSE),4.8,2014-02-25,"Covers cybersecurity fundamentals, strategies, and architectures for protecting information."
+AI Superpowers,Artificial Intelligence,Computer Science and Engineering (CSE),3.88,2023-03-15,"Introduction to AI concepts, search algorithms, machine learning, and knowledge representation."
+Machine Learning Yearning,Machine Learning,Computer Science and Engineering (CSE),4.02,2020-10-25,"Practical guide to machine learning techniques, from data preprocessing to model evaluation."
+Introduction to Machine Learning with Python,Machine Learning,Computer Science and Engineering (CSE),3.86,2019-03-15,"Practical guide to machine learning techniques, from data preprocessing to model evaluation."
+Deep Learning with Python,Deep Learning,Computer Science and Engineering (CSE),4.53,2017-02-28,"In-depth coverage of neural networks, deep learning architectures, and implementation using Python."
+Neural Networks and Deep Learning,Deep Learning,Computer Science and Engineering (CSE),3.93,2020-07-03,"In-depth coverage of neural networks, deep learning architectures, and implementation using Python."
+Speech and Language Processing,Natural Language Processing (NLP),Computer Science and Engineering (CSE),3.56,2015-03-31,"Explores the key concepts of NLP, from language models to advanced neural networks."
+Introduction to Natural Language Processing,Natural Language Processing (NLP),Computer Science and Engineering (CSE),4.03,2017-08-28,"Explores the key concepts of NLP, from language models to advanced neural networks."
+Foundations of Statistical NLP,Natural Language Processing (NLP),Computer Science and Engineering (CSE),4.11,2021-02-14,"Explores the key concepts of NLP, from language models to advanced neural networks."
+Mastering Blockchain,Blockchain,Computer Science and Engineering (CSE),3.8,2017-10-17,"Explains blockchain technology, its applications, consensus protocols, and potential future impact."
+Blockchain Basics,Blockchain,Computer Science and Engineering (CSE),4.51,2015-01-02,"Explains blockchain technology, its applications, consensus protocols, and potential future impact."
+Blockchain: Blueprint for a New Economy,Blockchain,Computer Science and Engineering (CSE),3.94,2017-04-10,"Explains blockchain technology, its applications, consensus protocols, and potential future impact."
+The Ethical Algorithm,Ethical AI,Computer Science and Engineering (CSE),3.78,2015-10-01,Discusses the ethical implications of AI and strategies for developing fair and transparent AI systems.
+Ethics of Artificial Intelligence,Ethical AI,Computer Science and Engineering (CSE),4.48,2017-02-23,Discusses the ethical implications of AI and strategies for developing fair and transparent AI systems.
+Fairness and Machine Learning,Ethical AI,Computer Science and Engineering (CSE),5.0,2019-10-18,Discusses the ethical implications of AI and strategies for developing fair and transparent AI systems.
+Data Science from Scratch,Data Science,Computer Science and Engineering (CSE),4.14,2021-04-14,"A step-by-step guide to data science workflows, from data collection to analysis and visualization."
+Practical Statistics for Data Scientists,Data Science,Computer Science and Engineering (CSE),4.23,2021-05-26,"A step-by-step guide to data science workflows, from data collection to analysis and visualization."
+Python Data Science Handbook,Data Science,Computer Science and Engineering (CSE),3.58,2024-04-11,"A step-by-step guide to data science workflows, from data collection to analysis and visualization."
+Eloquent JavaScript,Web Development (Front-End),Computer Science and Engineering (CSE),3.56,2023-09-26,"Guide to building dynamic and responsive websites using HTML, CSS, and JavaScript."
+HTML and CSS: Design and Build Websites,Web Development (Front-End),Computer Science and Engineering (CSE),3.62,2020-04-14,"Guide to building dynamic and responsive websites using HTML, CSS, and JavaScript."
+JavaScript: The Good Parts,Web Development (Front-End),Computer Science and Engineering (CSE),3.94,2020-09-14,"Guide to building dynamic and responsive websites using HTML, CSS, and JavaScript."
+Node.js Design Patterns,Web Development (Back-End),Computer Science and Engineering (CSE),3.87,2022-12-02,"Focuses on server-side development, API design, and back-end architecture using popular frameworks."
+"Learning PHP, MySQL & JavaScript",Web Development (Back-End),Computer Science and Engineering (CSE),4.68,2022-08-01,"Focuses on server-side development, API design, and back-end architecture using popular frameworks."
+Flask Web Development,Web Development (Back-End),Computer Science and Engineering (CSE),4.46,2019-08-17,"Focuses on server-side development, API design, and back-end architecture using popular frameworks."
+Digital Signal Processing,Signal Processing,Electronics and Communication Engineering (ECE),4.95,2016-09-27,Comprehensive coverage of signal processing techniques and their applications.
+Signals and Systems,Signal Processing,Electronics and Communication Engineering (ECE),4.43,2023-10-30,Comprehensive coverage of signal processing techniques and their applications.
+Discrete-Time Signal Processing,Signal Processing,Electronics and Communication Engineering (ECE),4.42,2019-12-30,Comprehensive coverage of signal processing techniques and their applications.
+Communication Systems Engineering,Communication Systems,Electronics and Communication Engineering (ECE),4.41,2016-06-04,Explores modern communication systems with a focus on analog and digital modulation.
+Modern Digital and Analog Communication Systems,Communication Systems,Electronics and Communication Engineering (ECE),3.92,2022-12-18,Explores modern communication systems with a focus on analog and digital modulation.
+Wireless Communications: Principles and Practice,Communication Systems,Electronics and Communication Engineering (ECE),4.11,2014-07-01,Explores modern communication systems with a focus on analog and digital modulation.
+Principles of CMOS VLSI Design,VLSI,Electronics and Communication Engineering (ECE),4.18,2019-12-23,"Covers VLSI design principles, CMOS technology, and integrated circuit layout techniques."
+CMOS Digital Integrated Circuits,VLSI,Electronics and Communication Engineering (ECE),4.01,2014-12-17,"Covers VLSI design principles, CMOS technology, and integrated circuit layout techniques."
+VLSI Design Techniques,VLSI,Electronics and Communication Engineering (ECE),4.72,2020-10-08,"Covers VLSI design principles, CMOS technology, and integrated circuit layout techniques."
+Embedded Systems: Real-Time Interfacing,Embedded Systems,Electronics and Communication Engineering (ECE),3.81,2018-04-25,A detailed guide to real-time embedded systems and microcontroller programming.
+Introduction to Embedded Systems,Embedded Systems,Electronics and Communication Engineering (ECE),3.83,2023-08-20,A detailed guide to real-time embedded systems and microcontroller programming.
+Programming Embedded Systems,Embedded Systems,Electronics and Communication Engineering (ECE),4.88,2022-05-24,A detailed guide to real-time embedded systems and microcontroller programming.
+Microelectronics Circuits,Microelectronics,Electronics and Communication Engineering (ECE),3.64,2016-09-23,Focuses on the fundamentals of microelectronics circuits and device fabrication.
+Fundamentals of Microelectronics,Microelectronics,Electronics and Communication Engineering (ECE),3.9,2020-01-09,Focuses on the fundamentals of microelectronics circuits and device fabrication.
+Introduction to Microelectronic Fabrication,Microelectronics,Electronics and Communication Engineering (ECE),3.6,2024-06-28,Focuses on the fundamentals of microelectronics circuits and device fabrication.
+Modern Control Engineering,Control Systems,Electronics and Communication Engineering (ECE),4.14,2017-12-27,"Provides a deep dive into modern control system theory, design, and application."
+Control Systems Engineering,Control Systems,Electronics and Communication Engineering (ECE),4.57,2018-03-12,"Provides a deep dive into modern control system theory, design, and application."
+Feedback Control of Dynamic Systems,Control Systems,Electronics and Communication Engineering (ECE),3.98,2024-09-17,"Provides a deep dive into modern control system theory, design, and application."
+Antenna Theory: Analysis and Design,Antennas,Electronics and Communication Engineering (ECE),4.11,2014-09-22,"An introduction to antenna theory, design, and propagation techniques in modern systems."
+Antennas and Wave Propagation,Antennas,Electronics and Communication Engineering (ECE),4.7,2024-06-12,"An introduction to antenna theory, design, and propagation techniques in modern systems."
+Introduction to Smart Antennas,Antennas,Electronics and Communication Engineering (ECE),4.68,2015-10-22,"An introduction to antenna theory, design, and propagation techniques in modern systems."
+Digital Logic Design,Digital Electronics,Electronics and Communication Engineering (ECE),4.27,2016-01-21,"Explains key principles of digital circuit design, logic gates, and flip-flop operations."
+Fundamentals of Digital Circuits,Digital Electronics,Electronics and Communication Engineering (ECE),4.47,2023-01-26,"Explains key principles of digital circuit design, logic gates, and flip-flop operations."
+Digital Design: Principles and Practices,Digital Electronics,Electronics and Communication Engineering (ECE),3.58,2020-04-20,"Explains key principles of digital circuit design, logic gates, and flip-flop operations."
+Electronic Circuit Design,Circuit Design,Electronics and Communication Engineering (ECE),4.95,2014-07-04,Comprehensive coverage of analog and digital circuit design using modern components.
+Analog Integrated Circuit Design,Circuit Design,Electronics and Communication Engineering (ECE),4.22,2022-01-09,Comprehensive coverage of analog and digital circuit design using modern components.
+Design with Operational Amplifiers,Circuit Design,Electronics and Communication Engineering (ECE),3.61,2017-12-19,Comprehensive coverage of analog and digital circuit design using modern components.
+Fundamentals of Wireless Communication,Wireless Communications,Electronics and Communication Engineering (ECE),4.36,2017-03-16,Discusses the fundamentals of wireless communication and network design.
+Wireless Communication Networks,Wireless Communications,Electronics and Communication Engineering (ECE),4.98,2021-10-01,Discusses the fundamentals of wireless communication and network design.
+Wireless Networking: Understanding Internetworking Challenges,Wireless Communications,Electronics and Communication Engineering (ECE),4.59,2022-07-24,Discusses the fundamentals of wireless communication and network design.
+Power System Analysis and Design,Power Systems,Electrical and Electronics Engineering (EEE),4.97,2022-08-12,"Covers the fundamentals of electrical power systems, including generation, transmission, and distribution."
+Electrical Power Systems,Power Systems,Electrical and Electronics Engineering (EEE),4.11,2022-06-17,"Covers the fundamentals of electrical power systems, including generation, transmission, and distribution."
+Power System Protection,Power Systems,Electrical and Electronics Engineering (EEE),3.61,2024-11-30,"Covers the fundamentals of electrical power systems, including generation, transmission, and distribution."
+Electric Machinery Fundamentals,Electrical Machines,Electrical and Electronics Engineering (EEE),3.92,2020-11-03,Provides detailed explanations of electrical machines and their applications in power systems.
+"Electrical Machines, Drives and Power Systems",Electrical Machines,Electrical and Electronics Engineering (EEE),4.44,2014-06-14,Provides detailed explanations of electrical machines and their applications in power systems.
+Principles of Electric Machines and Power Electronics,Electrical Machines,Electrical and Electronics Engineering (EEE),3.93,2024-10-20,Provides detailed explanations of electrical machines and their applications in power systems.
+Linear Control System Analysis and Design,Control Systems,Electrical and Electronics Engineering (EEE),3.53,2018-12-07,"Focuses on modern control theory, system design, and stability analysis techniques."
+"Power Electronics: Converters, Applications, and Design",Power Electronics,Electrical and Electronics Engineering (EEE),3.63,2018-06-04,"An in-depth exploration of power electronics, covering converters, inverters, and their applications."
+Fundamentals of Power Electronics,Power Electronics,Electrical and Electronics Engineering (EEE),4.6,2018-09-03,"An in-depth exploration of power electronics, covering converters, inverters, and their applications."
+Modern Power Electronics,Power Electronics,Electrical and Electronics Engineering (EEE),3.5,2017-09-25,"An in-depth exploration of power electronics, covering converters, inverters, and their applications."
+Renewable Energy Systems,Renewable Energy,Electrical and Electronics Engineering (EEE),4.35,2022-09-04,"Discusses various renewable energy technologies, such as solar, wind, and their integration into power grids."
+Solar Energy: Principles and Applications,Renewable Energy,Electrical and Electronics Engineering (EEE),3.87,2015-07-29,"Discusses various renewable energy technologies, such as solar, wind, and their integration into power grids."
+Wind Energy Systems,Renewable Energy,Electrical and Electronics Engineering (EEE),4.87,2024-05-14,"Discusses various renewable energy technologies, such as solar, wind, and their integration into power grids."
+Electric Circuits,Circuit Theory,Electrical and Electronics Engineering (EEE),3.82,2017-05-18,"Explores the principles of electric circuit theory, analysis methods, and practical applications."
+Introduction to Electric Circuits,Circuit Theory,Electrical and Electronics Engineering (EEE),3.88,2017-07-20,"Explores the principles of electric circuit theory, analysis methods, and practical applications."
+Engineering Circuit Analysis,Circuit Theory,Electrical and Electronics Engineering (EEE),3.57,2016-06-21,"Explores the principles of electric circuit theory, analysis methods, and practical applications."
+Engineering Electromagnetics,Electromagnetic Field Theory,Electrical and Electronics Engineering (EEE),4.68,2018-12-20,Provides comprehensive coverage of electromagnetic field theory and its applications in electrical engineering.
+Electromagnetic Field Theory Fundamentals,Electromagnetic Field Theory,Electrical and Electronics Engineering (EEE),4.97,2015-12-23,Provides comprehensive coverage of electromagnetic field theory and its applications in electrical engineering.
+Electromagnetic Waves and Radiating Systems,Electromagnetic Field Theory,Electrical and Electronics Engineering (EEE),4.63,2019-09-23,Provides comprehensive coverage of electromagnetic field theory and its applications in electrical engineering.
+Microelectronics: Circuit Analysis and Design,Analog Electronics,Electrical and Electronics Engineering (EEE),4.59,2016-12-12,Covers the principles and design techniques for analog electronic circuits and systems.
+Analog Electronics,Analog Electronics,Electrical and Electronics Engineering (EEE),4.49,2014-12-21,Covers the principles and design techniques for analog electronic circuits and systems.
+Design of Analog CMOS Integrated Circuits,Analog Electronics,Electrical and Electronics Engineering (EEE),3.54,2017-03-31,Covers the principles and design techniques for analog electronic circuits and systems.
+Digital Fundamentals,Digital Electronics,Electrical and Electronics Engineering (EEE),3.76,2019-06-13,"An introduction to digital electronics, covering combinational and sequential logic design."
+Digital Design,Digital Electronics,Electrical and Electronics Engineering (EEE),4.19,2019-01-01,"An introduction to digital electronics, covering combinational and sequential logic design."
+Principles of Digital Electronics,Digital Electronics,Electrical and Electronics Engineering (EEE),3.74,2017-10-01,"An introduction to digital electronics, covering combinational and sequential logic design."
+High Voltage Engineering,High Voltage Engineering,Electrical and Electronics Engineering (EEE),4.44,2024-02-22,"Focuses on high voltage technology, including equipment, transmission, and safety aspects."
+Fundamentals of High Voltage Engineering,High Voltage Engineering,Electrical and Electronics Engineering (EEE),4.33,2019-03-27,"Focuses on high voltage technology, including equipment, transmission, and safety aspects."
+High Voltage Direct Current Transmission,High Voltage Engineering,Electrical and Electronics Engineering (EEE),4.33,2020-01-27,"Focuses on high voltage technology, including equipment, transmission, and safety aspects."
+Design of Steel Structures,Structural Engineering,Civil Engineering,4.53,2022-10-05,"Covers the design and analysis of steel, concrete, and composite structures."
+Reinforced Concrete Design,Structural Engineering,Civil Engineering,4.1,2017-01-28,"Covers the design and analysis of steel, concrete, and composite structures."
+Structural Analysis,Structural Engineering,Civil Engineering,4.56,2020-05-18,"Covers the design and analysis of steel, concrete, and composite structures."
+Principles of Geotechnical Engineering,Geotechnical Engineering,Civil Engineering,4.92,2017-09-05,"Focuses on the properties of soil, foundation design, and earth structures."
+Foundation Design: Principles and Practices,Geotechnical Engineering,Civil Engineering,4.25,2020-10-20,"Focuses on the properties of soil, foundation design, and earth structures."
+Soil Mechanics and Foundations,Geotechnical Engineering,Civil Engineering,4.43,2021-04-17,"Focuses on the properties of soil, foundation design, and earth structures."
+Introduction to Environmental Engineering,Environmental Engineering,Civil Engineering,4.76,2022-11-06,"Explores sustainable environmental practices, water treatment, and pollution control."
+Water and Wastewater Engineering,Environmental Engineering,Civil Engineering,4.16,2017-04-06,"Explores sustainable environmental practices, water treatment, and pollution control."
+Environmental Engineering Science,Environmental Engineering,Civil Engineering,4.16,2023-04-25,"Explores sustainable environmental practices, water treatment, and pollution control."
+Water Resources Engineering,Water Resources Engineering,Civil Engineering,4.07,2022-07-31,"Discusses hydrology, water resource management, and flood control systems."
+Hydrology and Hydraulic Systems,Water Resources Engineering,Civil Engineering,4.88,2021-09-27,"Discusses hydrology, water resource management, and flood control systems."
+Urban Stormwater Management,Water Resources Engineering,Civil Engineering,3.56,2016-11-28,"Discusses hydrology, water resource management, and flood control systems."
+Traffic and Highway Engineering,Transportation Engineering,Civil Engineering,4.78,2016-03-30,"Examines the design and analysis of transportation systems, including highways and traffic flow."
+Principles of Highway Engineering and Traffic Analysis,Transportation Engineering,Civil Engineering,4.03,2019-11-15,"Examines the design and analysis of transportation systems, including highways and traffic flow."
+Transportation Infrastructure Engineering,Transportation Engineering,Civil Engineering,3.58,2015-01-20,"Examines the design and analysis of transportation systems, including highways and traffic flow."
+Construction Project Management,Construction Management,Civil Engineering,3.79,2018-09-24,"Provides a detailed overview of managing construction projects, scheduling, and resources."
+"Construction Planning, Equipment, and Methods",Construction Management,Civil Engineering,3.95,2024-10-05,"Provides a detailed overview of managing construction projects, scheduling, and resources."
+Managing the Construction Process,Construction Management,Civil Engineering,3.93,2017-03-10,"Provides a detailed overview of managing construction projects, scheduling, and resources."
+Surveying for Civil Engineers,Surveying,Civil Engineering,4.48,2020-03-14,"Covers the fundamentals of land surveying, geospatial data collection, and mapping techniques."
+Principles of Geospatial Surveying,Surveying,Civil Engineering,4.37,2015-07-07,"Covers the fundamentals of land surveying, geospatial data collection, and mapping techniques."
+Advanced Surveying Techniques,Surveying,Civil Engineering,4.51,2015-12-06,"Covers the fundamentals of land surveying, geospatial data collection, and mapping techniques."
+Fluid Mechanics for Civil Engineers,Fluid Mechanics,Civil Engineering,4.27,2020-08-15,"Focuses on the principles of fluid behavior, fluid statics, and fluid dynamics in civil applications."
+Fundamentals of Fluid Mechanics,Fluid Mechanics,Civil Engineering,3.5,2021-04-22,"Focuses on the principles of fluid behavior, fluid statics, and fluid dynamics in civil applications."
+Introduction to Hydraulics and Hydrology,Fluid Mechanics,Civil Engineering,4.8,2022-02-04,"Focuses on the principles of fluid behavior, fluid statics, and fluid dynamics in civil applications."
+Hydraulic Engineering Systems,Hydraulic Engineering,Civil Engineering,4.08,2022-10-22,"Explains the design and operation of hydraulic systems, including pumps, canals, and flood control."
+Introduction to Hydraulic Engineering,Hydraulic Engineering,Civil Engineering,4.84,2022-07-12,"Explains the design and operation of hydraulic systems, including pumps, canals, and flood control."
+Applied Hydraulics in Engineering,Hydraulic Engineering,Civil Engineering,4.26,2020-01-11,"Explains the design and operation of hydraulic systems, including pumps, canals, and flood control."
+Urban Planning and Design,Urban Planning,Civil Engineering,4.9,2014-07-26,"Explores sustainable city planning, infrastructure development, and urban policy design."
+Principles of Urban Planning,Urban Planning,Civil Engineering,4.83,2016-09-10,"Explores sustainable city planning, infrastructure development, and urban policy design."
+Sustainable Urban Development,Urban Planning,Civil Engineering,4.83,2014-04-08,"Explores sustainable city planning, infrastructure development, and urban policy design."
+Thermodynamics: An Engineering Approach,Thermodynamics,Mechanical Engineering,4.47,2021-04-10,Covers the principles and applications of thermodynamics in engineering.
+Fundamentals of Thermodynamics,Thermodynamics,Mechanical Engineering,4.19,2020-10-29,Covers the principles and applications of thermodynamics in engineering.
+Thermodynamics and Its Applications,Thermodynamics,Mechanical Engineering,4.03,2020-04-04,Covers the principles and applications of thermodynamics in engineering.
+Fluid Mechanics: Fundamentals and Applications,Fluid Mechanics,Mechanical Engineering,3.51,2018-01-15,Focuses on fluid behavior and its applications in engineering systems.
+Introduction to Fluid Mechanics,Fluid Mechanics,Mechanical Engineering,3.9,2015-12-10,Focuses on fluid behavior and its applications in engineering systems.
+Fluid Dynamics,Fluid Mechanics,Mechanical Engineering,4.98,2023-10-16,Focuses on fluid behavior and its applications in engineering systems.
+Mechanics of Materials,Mechanics of Materials,Mechanical Engineering,4.15,2024-06-28,Explores the mechanical behavior of materials under various conditions.
+Strength of Materials,Mechanics of Materials,Mechanical Engineering,4.7,2021-09-01,Explores the mechanical behavior of materials under various conditions.
+Introduction to the Mechanics of Materials,Mechanics of Materials,Mechanical Engineering,3.67,2020-01-08,Explores the mechanical behavior of materials under various conditions.
+Mechanical Design: An Integrated Approach,Machine Design,Mechanical Engineering,4.14,2021-04-02,Discusses the principles and practices of machine design.
+Machine Design: An Integrated Approach,Machine Design,Mechanical Engineering,4.58,2023-10-25,Discusses the principles and practices of machine design.
+Design of Machine Elements,Machine Design,Mechanical Engineering,4.3,2014-09-18,Discusses the principles and practices of machine design.
+Manufacturing Engineering and Technology,Manufacturing Processes,Mechanical Engineering,4.71,2014-03-23,Covers various manufacturing processes and their applications in engineering.
+Manufacturing Processes for Engineering Materials,Manufacturing Processes,Mechanical Engineering,4.39,2023-08-03,Covers various manufacturing processes and their applications in engineering.
+Introduction to Manufacturing Processes,Manufacturing Processes,Mechanical Engineering,4.9,2017-05-06,Covers various manufacturing processes and their applications in engineering.
+Engineering Mechanics: Dynamics,Dynamics,Mechanical Engineering,4.46,2019-01-31,Explores the motion of bodies and systems under the influence of forces.
+Dynamics of Structures,Dynamics,Mechanical Engineering,4.95,2015-03-08,Explores the motion of bodies and systems under the influence of forces.
+Mechanical Vibrations,Dynamics,Mechanical Engineering,4.33,2017-10-22,Explores the motion of bodies and systems under the influence of forces.
+Fundamentals of Heat and Mass Transfer,Heat Transfer,Mechanical Engineering,4.82,2015-01-15,Covers the principles of heat transfer and its applications in engineering.
+Heat Transfer: A Practical Approach,Heat Transfer,Mechanical Engineering,4.88,2021-08-31,Covers the principles of heat transfer and its applications in engineering.
+Heat Transfer: Principles and Applications,Heat Transfer,Mechanical Engineering,4.71,2016-11-03,Covers the principles of heat transfer and its applications in engineering.
+Introduction to Robotics: Mechanics and Control,Robotics,Mechanical Engineering,3.64,2019-08-18,Focuses on the fundamentals of robotics and its applications in various fields.
+Robotics: Fundamentals and Applications,Robotics,Mechanical Engineering,3.95,2016-08-23,Focuses on the fundamentals of robotics and its applications in various fields.
+Robot Modeling and Control,Robotics,Mechanical Engineering,4.07,2016-03-29,Focuses on the fundamentals of robotics and its applications in various fields.
+Mechanical Vibrations: Theory and Application,Mechanical Vibrations,Mechanical Engineering,4.63,2017-12-19,Discusses the analysis and control of mechanical vibrations in systems.
+Fundamentals of Vibrations,Mechanical Vibrations,Mechanical Engineering,4.29,2024-09-10,Discusses the analysis and control of mechanical vibrations in systems.
+Vibration Analysis and Control,Mechanical Vibrations,Mechanical Engineering,4.54,2019-08-03,Discusses the analysis and control of mechanical vibrations in systems.
+Principles of Marketing,Marketing,MBA,4.11,2024-07-19,Covers the fundamental principles of marketing and strategies to reach consumers.
+Marketing Management,Marketing,MBA,4.35,2020-04-23,Covers the fundamental principles of marketing and strategies to reach consumers.
+Consumer Behavior,Marketing,MBA,3.99,2024-04-02,Covers the fundamental principles of marketing and strategies to reach consumers.
+Corporate Finance,Finance,MBA,3.52,2021-09-29,"Focuses on financial analysis, investment strategies, and corporate financial management."
+Investment Analysis,Finance,MBA,3.59,2017-12-01,"Focuses on financial analysis, investment strategies, and corporate financial management."
+Financial Management,Finance,MBA,3.57,2024-10-25,"Focuses on financial analysis, investment strategies, and corporate financial management."
+Operations Management,Operations Management,MBA,4.41,2022-11-28,Explores the management of operations and supply chains in organizations.
+Supply Chain Management,Operations Management,MBA,4.44,2021-09-16,Explores the management of operations and supply chains in organizations.
+Project Management,Operations Management,MBA,3.78,2023-03-22,Explores the management of operations and supply chains in organizations.
+Human Resource Management,Human Resource Management,MBA,3.64,2015-08-12,"Discusses HR strategies, employee relations, and performance management."
+Strategic Human Resource Management,Human Resource Management,MBA,3.96,2022-01-27,"Discusses HR strategies, employee relations, and performance management."
+Employee Relations,Human Resource Management,MBA,3.81,2019-01-29,"Discusses HR strategies, employee relations, and performance management."
+Competitive Strategy,Business Strategy,MBA,4.26,2014-03-27,Covers the formulation and implementation of business strategies.
+Business Strategy: A Guide to Effective Decision Making,Business Strategy,MBA,3.6,2017-10-05,Covers the formulation and implementation of business strategies.
+Strategic Management,Business Strategy,MBA,4.37,2021-08-24,Covers the formulation and implementation of business strategies.
+The Lean Startup,Entrepreneurship,MBA,3.67,2016-02-06,Focuses on the principles and practices of starting and managing new ventures.
+"Entrepreneurship: Theory, Process, and Practice",Entrepreneurship,MBA,4.99,2018-12-10,Focuses on the principles and practices of starting and managing new ventures.
+Business Model Generation,Entrepreneurship,MBA,4.38,2018-03-02,Focuses on the principles and practices of starting and managing new ventures.
+"Supply Chain Management: Strategy, Planning, and Operation",Supply Chain Management,MBA,3.65,2023-07-19,"Explores logistics, supply chain strategy, and operational efficiency."
+Logistics and Supply Chain Management,Supply Chain Management,MBA,4.81,2016-07-13,"Explores logistics, supply chain strategy, and operational efficiency."
+The Definitive Guide to Supply Chain Management,Supply Chain Management,MBA,4.87,2019-02-20,"Explores logistics, supply chain strategy, and operational efficiency."
+Business Analytics: Data Analysis and Decision Making,Business Analytics,MBA,4.54,2015-05-15,Discusses data analysis techniques and their application in business decision-making.
+Data Science for Business,Business Analytics,MBA,3.76,2020-03-07,Discusses data analysis techniques and their application in business decision-making.
+Business Analytics for Managers,Business Analytics,MBA,4.88,2015-01-17,Discusses data analysis techniques and their application in business decision-making.
+International Business: Competing in the Global Marketplace,International Business,MBA,4.88,2022-12-08,Covers the complexities of conducting business in a global context.
+Global Business Management,International Business,MBA,3.68,2022-06-02,Covers the complexities of conducting business in a global context.
+Cross-Cultural Management,International Business,MBA,4.93,2022-02-24,Covers the complexities of conducting business in a global context.
+"Corporate Governance: Principles, Policies, and Practices",Corporate Governance,MBA,3.62,2023-08-16,Focuses on governance frameworks and ethical responsibilities in corporations.
+Corporate Governance and Accountability,Corporate Governance,MBA,3.9,2023-07-20,Focuses on governance frameworks and ethical responsibilities in corporations.
+The Handbook of Corporate Governance,Corporate Governance,MBA,3.84,2022-10-24,Focuses on governance frameworks and ethical responsibilities in corporations.
+Principles of Agronomy,Agronomy,Agriculture,4.16,2015-12-24,Covers principles and practices in crop production and management.
+Crop Production and Management,Agronomy,Agriculture,4.17,2023-11-10,Covers principles and practices in crop production and management.
+Agronomy: A Sustainable Approach,Agronomy,Agriculture,4.53,2022-05-02,Covers principles and practices in crop production and management.
+Soil Science: An Introduction,Soil Science,Agriculture,4.28,2014-05-19,"Focuses on soil properties, management, and sustainable practices."
+Fundamentals of Soil Science,Soil Science,Agriculture,4.37,2015-10-08,"Focuses on soil properties, management, and sustainable practices."
+Soil Management for Sustainable Agriculture,Soil Science,Agriculture,4.62,2020-02-23,"Focuses on soil properties, management, and sustainable practices."
+Introduction to Horticulture,Horticulture,Agriculture,3.91,2020-11-25,Discusses the cultivation and management of horticultural crops.
+Horticulture: Principles and Practices,Horticulture,Agriculture,3.88,2014-03-02,Discusses the cultivation and management of horticultural crops.
+Vegetable Production,Horticulture,Agriculture,3.65,2014-07-11,Discusses the cultivation and management of horticultural crops.
+Agricultural Economics: Principles and Applications,Agricultural Economics,Agriculture,4.47,2018-11-06,Explores economic principles and their application in agriculture.
+Farm Management,Agricultural Economics,Agriculture,3.82,2024-07-12,Explores economic principles and their application in agriculture.
+Agricultural Marketing,Agricultural Economics,Agriculture,3.76,2020-02-04,Explores economic principles and their application in agriculture.
+Plant Pathology: Principles and Practice,Plant Pathology,Agriculture,4.54,2020-10-05,Focuses on plant diseases and their management.
+Diseases of Field Crops,Plant Pathology,Agriculture,3.64,2024-11-04,Focuses on plant diseases and their management.
+Introduction to Plant Pathology,Plant Pathology,Agriculture,4.76,2018-01-08,Focuses on plant diseases and their management.
+Animal Science: A Comprehensive Approach,Animal Science,Agriculture,4.15,2022-09-12,Covers principles in livestock production and animal husbandry.
+Livestock Production and Management,Animal Science,Agriculture,3.99,2016-02-01,Covers principles in livestock production and animal husbandry.
+Principles of Animal Science,Animal Science,Agriculture,4.1,2024-03-31,Covers principles in livestock production and animal husbandry.
+Introduction to Agricultural Engineering,Agricultural Engineering,Agriculture,3.52,2020-12-06,Discusses engineering principles in agricultural practices.
+Farm Machinery and Equipment,Agricultural Engineering,Agriculture,3.85,2014-05-24,Discusses engineering principles in agricultural practices.
+Irrigation Engineering,Agricultural Engineering,Agriculture,4.89,2023-04-21,Discusses engineering principles in agricultural practices.
+Integrated Pest Management,Pest Management,Agriculture,3.86,2019-09-23,Focuses on integrated pest management strategies.
+Pest Management in Agriculture,Pest Management,Agriculture,3.55,2014-12-29,Focuses on integrated pest management strategies.
+Biological Control of Pests,Pest Management,Agriculture,4.38,2019-06-15,Focuses on integrated pest management strategies.
+Organic Farming: Principles and Practices,Organic Farming,Agriculture,4.5,2019-01-08,Covers practices and principles of organic agriculture.
+The Organic Farming Manual,Organic Farming,Agriculture,4.25,2017-04-16,Covers practices and principles of organic agriculture.
+Organic Crop Production,Organic Farming,Agriculture,4.56,2023-08-22,Covers practices and principles of organic agriculture.
+Sustainable Agriculture: A Global Perspective,Sustainable Agriculture,Agriculture,3.9,2015-09-26,Explores sustainable practices and ecological agriculture.
+Principles of Sustainable Agriculture,Sustainable Agriculture,Agriculture,3.99,2021-08-20,Explores sustainable practices and ecological agriculture.
+Ecological Agriculture,Sustainable Agriculture,Agriculture,3.53,2018-07-03,Explores sustainable practices and ecological agriculture.
